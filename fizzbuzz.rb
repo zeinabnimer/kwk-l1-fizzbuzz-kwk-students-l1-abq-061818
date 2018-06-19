@@ -8,7 +8,7 @@ puts "Buzz"
 elsif number%3 == 0
   puts "Fizz"
   "Fizz"
-else 
+else
   puts "HI"
 end
 end
