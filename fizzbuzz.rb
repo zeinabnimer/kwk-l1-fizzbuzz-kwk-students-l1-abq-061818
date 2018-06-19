@@ -7,8 +7,7 @@ elseif number%5 == 0
 puts "buzz"
 elseif number%15 == 0
   puts "fizzbuzz"
-else
+else "I AM THE KING"
 end
 end
-
 fizzbuzz(14)
